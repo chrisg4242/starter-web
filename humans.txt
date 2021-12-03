@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chris Gosling, chrisg@colab-aktiv.com
+
 
 # THANKS
 
