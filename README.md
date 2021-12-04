@@ -18,4 +18,4 @@ I'm baby forage roof party poke cornhole. Organic marfa butcher gentrify single-
 ## How to contribute
 
 ### Copyright
-Copyright 2021 by me
+Copyright 2021 by me. All rights reserved.
